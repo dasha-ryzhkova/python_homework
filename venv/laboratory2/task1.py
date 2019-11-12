@@ -23,8 +23,8 @@ def val_values2(pattern, values):
 def sigma():
 
     """
-     Організація циклу за допомогою оператора for
-    :return:float, виведення суми у порядку обчислення
+     Організація циклу за допомогою оператора for.
+    :return:float, виведення суми у порядку обчислення.
     """
 
     for i in range(0, bound_of_sum + 1):
